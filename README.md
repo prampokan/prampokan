@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pram</h1>
-<h3 align="center">A passionate web developer who crafting dynamic and interactive web applications.</h3>
+<h1 align="left">Hi 👋, I'm Pram</h1>
+<h3 align="left">A passionate web developer who crafting dynamic and interactive web applications.</h3>
 
-- 👨‍💻 All of my projects are available at [https://pramudya-diagusta.vercel.app/](https://pramudya-diagusta.vercel.app/)
+- 👨‍💻 My Protofolio Website [https://pramudya-diagusta.vercel.app/](https://pramudya-diagusta.vercel.app/)
 
 - 📫 How to reach me **prampokan@gmail.com**
 
