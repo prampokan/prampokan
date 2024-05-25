@@ -8,6 +8,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png?f=webp" width="25px" /> &nbsp
 <img src="https://i.imgflip.com/6ejuoo.png" width="27px"/> &nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="23px"/> &nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="24px"/> &nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="27px"/> &nbsp
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="25px"/> &nbsp
 <img src="https://miro.medium.com/v2/resize:fit:1258/1*okiCUvTUJLtOqJv1dMzwpA.png" width="24px"/> &nbsp
