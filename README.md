@@ -1,6 +1,6 @@
 <h3 align="left">Sup, Prampokans here🤘🏻</h3>
 
-✨ My Portofolio Website : [https://pramudya-diagusta.vercel.app/](https://pramudya-diagusta.vercel.app/)<br/>
+✨ My Portofolio Website : [https://pramudyadiagusta.vercel.app/](https://pramudyadiagusta.vercel.app/)<br/>
 🚀 How to reach me : *prampokan@gmail.com*
 
 <b align="left">Tech Stack</b> <br/>
